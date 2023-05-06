@@ -1,0 +1,66 @@
+Use CoreData as Backend Database
+For Animations use JSON files from the Website
+---https://lottiefiles.com/ 
+Sample Email ID and 919 Number
+---Create a Model so that helps to link the Email and 919# for verification.
+-----S549701@nwmissouri.edu - 919617283
+For email verification and booking mail confirmation
+-----------------------------------------------------------------------
+Hours and Upcoming Events including Closed Dates
+***Student Recreation Center Normal Hours***
+•	Mon-Thurs
+•	8:30 a.m. - 9 p.m.
+•	Friday
+•	8:30 a.m. - 7 p.m.
+•	Saturday
+•	11 a.m. - 3 p.m.
+•	Sunday
+•	5 p.m. - 9 p.m.
+Upcoming Events - There are no current events in the recreation center.
+***Finals Week***
+•	5/1-5/5:  open normal hours
+•	5/6:  closed for commencement ceremony.
+•	5/7:  closed - Sunday.
+***MAY 8-31***
+•	Monday-Friday
+•	11am-1pm, 4pm-7pm
+•	Saturday
+•	11am-1pm
+•	Sunday
+•	4pm-7pm
+•	*Changes:
+•	5/29:  closed - International Day of United Nations Peacekeepers
+***JUNE 1-30***
+•	Monday-Thursday
+•	11am-1pm, 4pm-7pm
+•	Friday-Saturday
+•	11am-1pm
+•	Sunday
+•	4pm-7pm
+Changes:
+•	6/5-6/7, 6/19-6/21:  open 12pm-1pm & 4pm-7pm
+•	6/8-6/9, 6/14-6/18:  closed  
+
+***JULY 1-31***
+•	Monday-Thursday
+•	11am-1pm, 4pm-7pm
+•	Friday
+•	11am-1pm
+•	Saturday
+•	Closed
+•	Sunday
+•	4pm-7pm
+*Changes:
+•	7/1-7/4, 7/10-7/11, 7/14-7/15:  closed
+•	7/19-7/20: open 4-7pm
+
+***AUGUST 1-20***
+•	Monday-Friday
+•	11am-1pm, 4pm-7pm
+•	Saturday
+•	11am-1pm
+•	Sunday
+•	4pm-7pm
+*Changes:
+•	8/17-8/18:  open 4pm-7pm
+•	8/21:  normal hours begin
